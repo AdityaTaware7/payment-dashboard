@@ -1,4 +1,4 @@
-# Payment-dashboard
+# Payment-dashboard page Edyoda
  Payments Page using ReactJS. 
 
  Deployed link: https://edyoda-payment-portal.onrender.com/
