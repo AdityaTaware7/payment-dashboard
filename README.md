@@ -1,6 +1,8 @@
 # Payment-dashboard
  Payments Page using ReactJS. 
 
+ Deployed link: https://edyoda-payment-portal.onrender.com/
+
 Setup:<br>
 
 1: Clone the repository.<br>
